@@ -4,12 +4,14 @@ I help make open source tools be useful for research and education, and help the
 
 A few links where you can learn more about me!
 
-- [My personal website](https://predictablynoisy.com)
-- [Twitter](https://twitter.com/choldgraf)
-- [The non-profit I help run](https://2i2c.org)
+- [My personal website: `chrisholdgraf.com`](https://chrisholdgraf.com)
+- [Twitter: `@choldgraf`](https://twitter.com/choldgraf)
+- [Mastodon: `@choldgraf@hachyderm.io`](https://hachyderm.io/@choldgraf)
+- [The non-profit I run: `2i2c.org`](https://2i2c.org)
 
 And a few open source projects that work on:
 
 - [Project Jupyter](https://jupyter.org)
+- [Executable Books](https://executablebooks.org)
 - [The Binder Project](https://mybinder.org)
 - [JupyterHub](https://jupyter.org/hub)
